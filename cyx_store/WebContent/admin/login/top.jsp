@@ -50,12 +50,11 @@ TH {
 </HEAD>
 <body>
 	<div class="height1">
-		<img class="img_logo" src="${pageContext.request.contextPath}/admin/images/top_11.png">
+		<img class="img_logo" src="${pageContext.request.contextPath}/client/images/my_logo.png">
 	</div>
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tr>
-			<td height="26" valign="bottom"
-				background="${pageContext.request.contextPath}/client/images/my_logo.png">
+			<td height="26" valign="bottom">
 				<table width="100%" border="0" cellspacing="0" cellpadding="0">
 					<tr>
 						<td width="85%" align="left">
